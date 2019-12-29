@@ -1,14 +1,14 @@
 <?php
 /* lobby.page.php */
 $CDN = "//localhost";
-$title = "สวัดดีผมทิน “เนอร์” ";
-$head = "~PernYrenCraft~";
-$sublife1 = "ดีคับ ผมชื่อ : พิณ [เพือนๆชอบเรียก ทิน]";
-$sublife2 = "งานอดิเรก : ขุดรหัส Hax,Spotify,Netflix,Minecraft ๆลๆ";
-$tel = "0652366373";
-$cadit = "Power | PernYrenCraft";
+$title = "CCC” ";
+$head = "CCC Shoot";
+$sublife1 = "_";
+$sublife2 = "_";
+$tel = "_";
+$cadit = "Power | PernYreCraft";
 $discord = "485833931283890188";
-$imageprofile = "https://avatars2.githubusercontent.com/u/45807795?v=4";
+$imageprofile = "https://githubusercontent.com";
 
 /* นับจำนวนการเข้าชม */
 
@@ -19,7 +19,7 @@ $imageprofile = "https://avatars2.githubusercontent.com/u/45807795?v=4";
 <?php
 
 /* login.page.php */
-$admin_userr = "demo";
-$admin_pass = "demo";
+$admin_userr = "root";
+$admin_pass = "toos";
 
 ?>
