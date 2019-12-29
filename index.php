@@ -139,7 +139,7 @@ window.onload = function() {
     </select>
     <p>แนะนำทุกๆ 5 วินาที</p>
   <input type="text" style="width: 50%;" class="swal2-input" placeholder="ความหน่วงเวลา เเนะนำ 5 วิ" id="time" value="5">
-<!-- <p>*คำเตือน โปรดอย่าโทรไปยังหมายเลขที่เกี่ยวกับประเทศชาติหรือต่างๆ* พบเห็นระงับทันที</p> -->
+<!-- <p>*ใช้พอหอมปากหอมคอ</p> -->
   <center>
 <button type="button" class="button" style="width: 50%;" id="start">Start เริ่มต้น</button>
 <button type="button" class="button" style="width: 50%;" id="stop">ยกเลิก</button>
@@ -181,20 +181,9 @@ $( "#stop" ).click(function() {
 </script>	<br>
 	</center>
 	</div>
-  <div class="rightcolumn">
     <div class="card">
       <center>
-      <h2>เกียวกับเรา</h2>
-      <image style="cursor:pointer" onclick="oopp()" src="<?php echo $imageprofile ?>"  class="main2">
-      </center>
-    <font size="2">
-      <p><?php echo $sublife1 ?></p>
-      <p><?php echo $sublife2 ?></p>
-    </font>
-    </div>
-    <div class="card">
-      <center>
-	  <h2>ยอดเข้าชม</h2>
+	  <h2>คนใช้บริการ</h2>
       <h4>▁▂▃ { <?php echo number_format($count); ?>&nbsp; ครั้ง } ▃▂▁</h4>
 	</center>
   </div>
